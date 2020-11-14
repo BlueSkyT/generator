@@ -1,0 +1,1 @@
+{"namingRules":"sss","property":{},"tables":[{"name":"user","columns":[{"name":"username","type":"varchar","length":100,"description":null}]},{"name":"role","columns":[{"name":"rolename","type":"varchar","length":100,"description":null}]}]}
